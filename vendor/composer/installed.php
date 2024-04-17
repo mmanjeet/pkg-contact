@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
-        'name' => 'trick/contact',
+        'reference' => 'eee981fa3a8e863e8fd784e5262067b471f944d4',
+        'name' => 'cyberzet/contact',
         'dev' => true,
     ),
     'versions' => array(
-        'trick/contact' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+        'cyberzet/contact' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => 'eee981fa3a8e863e8fd784e5262067b471f944d4',
             'dev_requirement' => false,
         ),
     ),
