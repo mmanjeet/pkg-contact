@@ -1,0 +1,13 @@
+{
+    "name": "trick/contact",
+    "description": "This will store contact data to database.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Trick\\Contact\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
